@@ -6,7 +6,7 @@ import random
 root = Tk()
 root.geometry('400x400')
 root.resizable(0,0)
-root.title('FunWorld-Rock,Paper,Scissors')
+root.title('Welcome to the game-Rock,Paper,Scissors')
 root.config(bg ='seashell3')
 
 
